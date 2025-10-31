@@ -3,7 +3,7 @@
 
 🖼️ Presentation File
 
-File Name: Wireless_Charging_Presentation.pptx
+File Name: [Wireless_Charging_Presentation.pptx](https://github.com/Mahmudulhasan19/-Wireless_Networks_Assignment-01/blob/main/Wireless%20Chargers.pptx)
 
 
 
