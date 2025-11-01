@@ -9,7 +9,7 @@ File Name: [Wireless_Charging_Presentation.pptx](https://github.com/Mahmudulhasa
 
 🖼️Video Presentation 
 
-Watch the presentation video here: [https://www.youtube.com/watch?v=Q2Cy9wIYy1c](url)
+Watch the presentation video here: [https://www.youtube.com/watch?v=Q2Cy9wIYy1c](https://www.youtube.com/watch?v=Q2Cy9wIYy1c)
 
 
 📘 Overview
